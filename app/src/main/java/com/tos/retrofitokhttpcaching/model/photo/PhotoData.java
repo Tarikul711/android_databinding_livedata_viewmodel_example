@@ -13,7 +13,7 @@ public class PhotoData {
     @SerializedName("width")
     @Expose
     private Integer width;
-    @SerializedName("height")
+    @SerializedName("height") 
     @Expose
     private Integer height;
     @SerializedName("url")
